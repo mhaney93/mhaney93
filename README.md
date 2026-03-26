@@ -51,8 +51,7 @@
   width="40" height="40"/></a>
   </p>
 
-  <p><img align="center" src="https://github-readme-stats-sable-theta-35.vercel.app/api/top-langs?username=mhaney93&sh
-  ow_icons=true&locale=en&layout=compact" alt="mhaney93" /></p>
+  <p><img align="center" src="https://github-readme-stats-sable-theta-35.vercel.app/api/top-langs?username=mhaney93&layout=compact" alt="mhaney93" /></p>
 
   <p>&nbsp;<img align="center"
   src="https://github-readme-stats-sable-theta-35.vercel.app/api?username=mhaney93&show_icons=true&locale=en"
