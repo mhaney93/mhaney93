@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Metana Web3 Bootcamp](https://app.metana.io/)
 
-- 🌱 I’m currently learning **Git**
+- 🌱 I’m currently learning **Web3**
 
 - 📫 How to reach me **matthew.haney1993@gmail.com**
 
