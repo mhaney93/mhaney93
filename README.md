@@ -3,10 +3,6 @@
   <h3 align="center">Smart contract developer — Solidity, Foundry, DeFi — based in Camarillo, CA</h3>
   <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">       
 
-  <p align="left"><img
-  src="https://komarev.com/ghpvc/?username=mhaney93&label=Profile%20views&color=0e75b6&style=flat" alt="mhaney93"     
-  /></p>
-
   - 🔭 I build **smart contracts** in Solidity + Foundry, focused on **DeFi**
   - 🌱 Going deeper on DeFi protocol design and security-conscious development
   - 💼 Open to remote smart contract developer roles
@@ -59,10 +55,10 @@
   width="40" height="40"/></a>
   </p>
 
-  <p><img align="center" src="https://github-readme-stats-sable-theta-35.vercel.app/api/top-langs?username=mhaney93&layout=compact" alt="mhaney93" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhaney93&layout=compact" alt="mhaney93" /></p>
 
   <p>&nbsp;<img align="center"
-  src="https://github-readme-stats-sable-theta-35.vercel.app/api?username=mhaney93&show_icons=true&locale=en"
+  src="https://github-readme-stats.vercel.app/api?username=mhaney93&show_icons=true&locale=en"
   alt="mhaney93" /></p>
 
-  <p><img align="center" src="https://streak-stats.demolab.com/?user=mhaney93" alt="mhaney93" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhaney93" alt="mhaney93" /></p>
