@@ -1,6 +1,6 @@
 ![MasterHead](http://picsum.photos/1100/250)
   <h1 align="center">Hi 👋, I'm Matt Haney</h1>
-  <h3 align="center">A passionate fullstack developer from Camarillo, CA</h3>
+  <h3 align="center">Smart contract developer — Solidity, Foundry, DeFi — based in Camarillo, CA</h3>
   <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">       
 
   <p align="left"><img
