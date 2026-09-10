@@ -7,13 +7,14 @@
   src="https://komarev.com/ghpvc/?username=mhaney93&label=Profile%20views&color=0e75b6&style=flat" alt="mhaney93"     
   /></p>
 
-  - 🔭 I'm currently working on [Metana Web3 Bootcamp](https://app.metana.io/)
-  - 🌱 I'm currently learning **Web3**
+  - 🔭 I build **smart contracts** in Solidity + Foundry, focused on **DeFi**
+  - 🌱 Going deeper on DeFi protocol design and security-conscious development
+  - 💼 Open to remote smart contract developer roles
   - 📫 How to reach me **matthew.haney1993@gmail.com**
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-  <a href="https://linkedin.com/in/matthew-haney-861706116" target="blank"><img align="center" 
+  <a href="https://www.linkedin.com/in/matthewhaney93/" target="blank"><img align="center" 
   src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" 
   height="30" width="100" /></a>
   </p>
