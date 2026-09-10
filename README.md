@@ -15,6 +15,8 @@
   height="30" width="100" /></a>
   </p>
 
+  <br clear="all"/>
+
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img
