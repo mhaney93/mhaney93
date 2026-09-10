@@ -21,6 +21,13 @@
 
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity"
+  width="40" height="40"/></a>
+  <a href="https://getfoundry.sh/" target="_blank" rel="noreferrer"><img
+  src="https://img.shields.io/badge/Foundry-2A2A2A?style=flat&logoColor=white" alt="foundry" height="30"/></a>
+  <a href="https://docs.openzeppelin.com/contracts" target="_blank" rel="noreferrer"><img
+  src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white" alt="openzeppelin" height="30"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"    
   width="40" height="40"/></a>
@@ -44,8 +51,8 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
   alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"       
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"
   width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
