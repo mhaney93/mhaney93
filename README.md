@@ -61,4 +61,4 @@
   src="https://github-readme-stats.vercel.app/api?username=mhaney93&show_icons=true&locale=en"
   alt="mhaney93" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhaney93" alt="mhaney93" /></p>
+  <p><img align="center" src="https://streak-stats.demolab.com/?user=mhaney93" alt="mhaney93" /></p>
