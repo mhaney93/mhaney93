@@ -14,8 +14,9 @@
   src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" 
   height="30" width="100" /></a>
   </p>
-  <br clear="all"/>
+
   <h3 align="left">Languages and Tools:</h3>
+  <br clear="all"/>
   <p align="left">
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity"
