@@ -4,6 +4,7 @@
   <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">       
 
   - 🔭 I build **smart contracts** in Solidity + Foundry, focused on **DeFi**
+  - 🚀 Featured: [GrantsDAO](https://github.com/mhaney93/grantsdao) (on-chain grants protocol, deployed on Sepolia) · [defi-amm](https://github.com/mhaney93/defi-amm) (Uniswap V2-style AMM, building in public)
   - 🌱 Going deeper on DeFi protocol design and security-conscious development
   - 💼 Open to remote smart contract developer roles
   - 📫 How to reach me **matthew.haney1993@gmail.com**
